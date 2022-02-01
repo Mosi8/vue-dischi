@@ -76,6 +76,7 @@ export default {
 
 .container {
     padding: 50px 200px;
+    text-align: center;
 
     span {
         color: #fff;
